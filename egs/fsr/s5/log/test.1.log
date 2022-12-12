@@ -1,0 +1,6 @@
+# compute-mfcc-feats 
+# Started at Mon Dec 12 10:00:53 EST 2022
+#
+bash: line 1: compute-mfcc-feats: command not found
+# Accounting: time=0 threads=1
+# Ended (code 127) at Mon Dec 12 10:00:53 EST 2022, elapsed time 0 seconds
